@@ -1,2 +1,12 @@
 # TaskFlow_groupe10
 projet de session
+
+AGOUA SOPIE DORYNE
+
+KOLIÉ ODILE HAOUSSA
+
+KELOMÉ BRIAN
+
+TOURÉ KARIM
+
+TRABI EMMANUEL
