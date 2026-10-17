@@ -25,7 +25,7 @@ public class ConsoleUI {
 
             System.out.print("Votre choix : ");
 
-            String saisie = scanner.nextLine();
+            String texte = scanner.nextLine().trim();
 
             try {
                 choix = Integer.parseInt(saisie);
